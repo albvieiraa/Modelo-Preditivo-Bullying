@@ -130,3 +130,6 @@ O modelo apresenta um bom desempenho geral para a classe majoritária (não sofr
 Este projeto foi desenvolvido de forma colaborativa por nossa squad **Hedy Lamar**, aplicando metodologias ágeis e compartilhando conhecimentos ao longo do processo. Trabalhamos juntos em todas as etapas, desde a análise exploratória até a construção e avaliação do modelo preditivo.  
 
 A colaboração foi essencial para obter insights mais ricos e garantir a qualidade do modelo. Agradecemos a todas as envolvidas pelo empenho e aprendizado compartilhado! 🚀💡  
+
+## Participantes:
+
